@@ -1,0 +1,1 @@
+Instalação e configuração do vsCode ,Node e Chrome no Linux;
