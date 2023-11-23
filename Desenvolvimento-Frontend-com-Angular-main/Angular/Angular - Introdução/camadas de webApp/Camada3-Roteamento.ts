@@ -1,0 +1,1 @@
+//gerenciamento da url quem vai cuidar dos componentes a ser renderizado angular routing module

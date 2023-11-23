@@ -1,0 +1,10 @@
+
+<app-comp-atributos>
+<h2>TEste</h2>
+</app-comp-atributos>
+<app-card *ngIf="isAliveCard; else anotherBlock"></app-card>
+<router-outlet></router-outlet>
+<ng-template #anotherBlock>
+  <p>Ola eu sou um bloco oculto</p>
+</ng-template>
+

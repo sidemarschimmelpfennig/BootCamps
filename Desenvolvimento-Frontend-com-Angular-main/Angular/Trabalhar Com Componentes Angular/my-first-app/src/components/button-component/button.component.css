@@ -1,0 +1,16 @@
+.button{
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FFBB33;
+    background-color: #222222;
+    height: 50px;
+    width: 150px;
+    border-style: none;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+.button:hover{
+    color: white;
+    cursor: pointer;
+}
